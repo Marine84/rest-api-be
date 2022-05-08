@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "target": "es5",
+    "module": "commonjs",
+    "strict": true,
+    "outDir": "./build",
+    "rootDir": "./backend",
+    "skipLibCheck": true,
+    "sourceMap": true
+  }
+}
